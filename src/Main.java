@@ -8,7 +8,7 @@ public class Main {
     static int fail = 0;
 
     public static void main(String[] args) {
-        //System.out.println("Hello World"); woah
+        //System.out.println("Hello World");
         testConstructStack();
         testPush();
         testPushPushPopPushPushPop();
